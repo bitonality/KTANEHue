@@ -30,5 +30,7 @@ If the command ran successfully, you'll have a JSON response that contains a "us
   `KTANEHue.exe <Hue Bridge IP> <username> <light 1> <light 2> <light 3> <light ...>`
   Where you add as many lights as you want the program to use
   
+
+[Gameplay demo](https://youtu.be/huCEGuzsJmg)
   
 
